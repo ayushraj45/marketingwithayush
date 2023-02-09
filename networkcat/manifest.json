@@ -1,6 +1,6 @@
 {
-    "name": "copy_network",
-    "short_name": "copy_network",
+    "name": "network_cat",
+    "short_name": "network_cat",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
